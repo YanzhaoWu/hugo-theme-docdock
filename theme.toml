@@ -3,17 +3,17 @@
 
 name = "docDock"
 license = "MIT"
-licenselink = "https://github.com/vjeantet/hugo-theme-docdock/blob/master/LICENSE.md"
-description = "Documentation theme for Hugo"
-homepage = "https://github.com/vjeantet/hugo-theme-docdock"
-repo = "https://github.com/vjeantet/hugo-theme-docdock"
+licenselink = "https://github.com/YanzhaoWu/hugo-theme-docdock/blob/master/LICENSE.md"
+description = "GTDLBench"
+homepage = "https://github.com/YanzhaoWu/hugo-theme-docdock"
+repo = "https://github.com/YanzhaoWu/hugo-theme-docdock"
 tags = ["documentation", "menu","slide","search"]
 features = ["documentation","menu","nested sections","search","slide", "attachments"]
 min_version = 0.32
 
 [author]
-  name = "Valere JEANTET"
-  homepage = "http://vjeantet.fr/"
+  name = "Yanzhao Wu"
+  homepage = "http://yanzhaowu.me/"
 
 [original]
   name = "Learn"
