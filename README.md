@@ -20,6 +20,7 @@ Visit the [theme documentation](http://docdock.netlify.com/) to see what is goin
 - Icons, Buttons, Alerts, Panels, Tip/Note/Info/Warning boxes
 - Image resizing, shadow...
 - Customizable look and feel
+- Chart(new)
 
 
 ![Overview](https://github.com/vjeantet/hugo-theme-docdock/raw/master/images/tn.png)
